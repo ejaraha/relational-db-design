@@ -1,6 +1,3 @@
-## Milestone 3: normalization script
-
-Sarah Jaraha
 
 ### Normalization Script
 
