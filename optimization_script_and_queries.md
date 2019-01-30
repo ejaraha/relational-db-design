@@ -1,8 +1,3 @@
-## Milestone 4: optimization script w/ optimized queries
-
-Sarah Jaraha
-
-
 
 ### The optimization script ....
 
