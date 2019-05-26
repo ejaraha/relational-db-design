@@ -1,4 +1,4 @@
-# spatial-relational-db-design-and-analysis-tutorial-project
+# relational-db-design
 
 tutorial on: 
 - designing a spatial relational database
